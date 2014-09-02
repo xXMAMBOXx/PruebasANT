@@ -1,7 +1,6 @@
 package tareaprogramada1;
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
-import javax.swing.JOptionPane;
 import javazoom.jl.decoder.JavaLayerException;
 
 import javazoom.jl.player.Player;
