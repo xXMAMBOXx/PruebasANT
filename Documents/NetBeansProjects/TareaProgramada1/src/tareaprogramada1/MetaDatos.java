@@ -1,4 +1,4 @@
-package TP1;
+package tareaprogramada1;
 //Librerias de uso
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;

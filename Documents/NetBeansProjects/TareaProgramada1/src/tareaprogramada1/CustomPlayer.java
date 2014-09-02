@@ -1,4 +1,4 @@
-package TP1;
+package tareaprogramada1;
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import javax.swing.JOptionPane;

@@ -1,4 +1,4 @@
-package TP1;
+package tareaprogramada1;
 
 public class Cancion {
     /**

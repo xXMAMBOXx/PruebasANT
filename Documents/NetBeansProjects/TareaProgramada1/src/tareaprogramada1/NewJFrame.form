@@ -202,16 +202,16 @@
                                       </Group>
                                   </Group>
                                   <Group type="103" groupAlignment="0" attributes="0">
-                                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
                                           <Component id="jArtista" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="Martista" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Martista" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <Component id="Progreso" alignment="1" min="-2" pref="21" max="-2" attributes="0"/>
                                   </Group>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Group type="103" groupAlignment="3" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
                                       <Component id="jAlbum" alignment="0" min="-2" max="-2" attributes="0"/>
-                                      <Component id="Malbum" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Malbum" min="-2" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
